@@ -46,5 +46,13 @@ bash logreg_Newton.sh
 Check the results in `results/`.
 
 ## Results
-![image](https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_weights.png)
-![image](https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_objective.png)
+
+<figure class="half">
+    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_weights.png">
+    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_objective.png">
+</figure>
+
+<figure class="half">
+    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_weights.png">
+    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_objective.png">
+</figure>
