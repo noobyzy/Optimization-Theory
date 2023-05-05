@@ -3,6 +3,17 @@
 A python (numpy) implementation of linear / logistic regression models, optimized with Gradient Descent / Newton's method.
 An comparison with optimal solution (solved by CVXPY) is also provided.
 
+## Installation
+Install the following packages via `pip` or `conda`:
+* numpy
+* sklearn
+* cvxpy
+* pickle
+
+Note that I use `MOSEK` solver for cvxpy (see [download link](https://www.mosek.com/downloads/) for more detail, and you also need a [license](https://www.mosek.com/products/academic-licenses/)), you can also use the default solver (e.g., CVXOPT).
+
+In `plot.py`, I use latex features for rendering axis labels. To enable this, you need to download latex (see [Instruction](https://patrickyoussef.com/blog/latex-plots/)).
+
 ## Task Description
 In this task I consider the two convex problems, **linear regression** and **logistic regression**.
 ### linear regression
@@ -33,3 +44,5 @@ bash logreg_GD.sh
 bash logreg_Newton.sh
 ```
 Check the results in `results/`.
+
+## Results
