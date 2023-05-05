@@ -50,12 +50,12 @@ Check the results in `results/`.
 <p align="center">
   <img alt="Light" src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_weights.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_objective.pn)" width="45%">
+  <img alt="Dark" src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_objective.png" width="45%">
 </p>
 
 <p align="center">
   <img alt="Light" src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_weights.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_objective.pn)" width="45%">
+  <img alt="Dark" src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_objective.png" width="45%">
 </p>
 
