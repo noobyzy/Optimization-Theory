@@ -47,12 +47,7 @@ Check the results in `results/`.
 
 ## Results
 
-<figure class="half">
-    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_weights.png">
-    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_objective.png">
-</figure>
+![Linear regression](https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_weights.png "weight difference") ![Linear regression](https://github.com/noobyzy/Optimization-Theory/blob/main/results/linreg_weights.png "objective difference")
 
-<figure class="half">
-    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_weights.png">
-    <img src="https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_objective.png">
-</figure>
+![Logistic regression](https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_weights.png "weight difference") ![Logistic regression](https://github.com/noobyzy/Optimization-Theory/blob/main/results/logreg_weights.png "objective difference")
+
